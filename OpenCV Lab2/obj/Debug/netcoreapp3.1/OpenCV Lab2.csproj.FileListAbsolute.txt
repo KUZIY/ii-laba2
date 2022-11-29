@@ -1,0 +1,7 @@
+C:\Users\o.glsh\Desktop\OpenCV Lab2\OpenCV Lab2\obj\Debug\netcoreapp3.1\OpenCV Lab2.csproj.AssemblyReference.cache
+C:\Users\o.glsh\Desktop\OpenCV Lab2\OpenCV Lab2\obj\Debug\netcoreapp3.1\OpenCV_Lab2.LWForm.resources
+C:\Users\o.glsh\Desktop\OpenCV Lab2\OpenCV Lab2\obj\Debug\netcoreapp3.1\OpenCV Lab2.csproj.GenerateResource.cache
+C:\Users\o.glsh\Desktop\OpenCV Lab2\OpenCV Lab2\obj\Debug\netcoreapp3.1\OpenCV Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.glsh\Desktop\OpenCV Lab2\OpenCV Lab2\obj\Debug\netcoreapp3.1\OpenCV Lab2.AssemblyInfoInputs.cache
+C:\Users\o.glsh\Desktop\OpenCV Lab2\OpenCV Lab2\obj\Debug\netcoreapp3.1\OpenCV Lab2.AssemblyInfo.cs
+C:\Users\o.glsh\Desktop\OpenCV Lab2\OpenCV Lab2\obj\Debug\netcoreapp3.1\OpenCV Lab2.csproj.CoreCompileInputs.cache
